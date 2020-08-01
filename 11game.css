@@ -1,0 +1,21 @@
+.bs-example{
+    margin: 20px;
+}
+#car {
+    position :absolute;
+    height: 100px;
+    width:60px;
+    background-color: blueviolet;
+    top:400px;
+    left: 350px;
+    /* transition: 0.2s; */
+
+}
+
+/* #myId {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background-color: red;
+    transition: 0.2s;
+  } */
